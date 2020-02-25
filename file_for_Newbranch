@@ -1,0 +1,3 @@
+hello file for newbranch 
+when it is in workspace it will be visible in both branches master and newbranch
+once it is commited in respective branch it will be visible on that branch only 
